@@ -1,4 +1,4 @@
 baseURL = "https://Hugo.github.io"
-languageCode = "en-us"
+languageCode = "de-de"
 title = "My HUGO Site"
-theme = "hugo-coder-master"
+theme = "ananke"
